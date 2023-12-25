@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Ayam Kecumbrung",
+    "description": "Restoran dengan menu makanan Asia",
+    "price": 50000,
+    "imgUrl": "https://example.com/restaurant1.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Spaghetti",
+    "description": "Restoran Italia dengan berbagai pasta lezat",
+    "price": 80000,
+    "imgUrl": "https://example.com/restaurant2.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Pasta",
+    "description": "Restoran dengan hidangan Meksiko yang pedas",
+    "price": 60000,
+    "imgUrl": "https://example.com/restaurant3.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "name": "Fuyunghay",
+    "description": "Restoran khas China dengan masakan tradisional",
+    "price": 75000,
+    "imgUrl": "https://example.com/restaurant4.jpg",
+    "categoryId": 4,
+    "authorId": 3
+  },
+  {
+    "name": "Hokben",
+    "description": "Restoran Jepang dengan menu sushi dan sashimi",
+    "price": 90000,
+    "imgUrl": "https://example.com/restaurant5.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "name": "Nasi Goreng",
+    "description": "Restoran dengan hidangan nasi goreng khas Indonesia",
+    "price": 45000,
+    "imgUrl": "https://example.com/restaurant6.jpg",
+    "categoryId": 1,
+    "authorId": 4
+  },
+  {
+    "name": "Pizza Margherita",
+    "description": "Restoran Italia dengan pizza klasik",
+    "price": 70000,
+    "imgUrl": "https://example.com/restaurant7.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  },
+  {
+    "name": "Taco",
+    "description": "Restoran dengan hidangan taco yang lezat",
+    "price": 55000,
+    "imgUrl": "https://example.com/restaurant8.jpg",
+    "categoryId": 3,
+    "authorId": 5
+  },
+  {
+    "name": "Dim Sum",
+    "description": "Restoran China dengan berbagai dim sum",
+    "price": 68000,
+    "imgUrl": "https://example.com/restaurant9.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Sashimi Deluxe",
+    "description": "Restoran Jepang dengan sashimi mewah",
+    "price": 120000,
+    "imgUrl": "https://example.com/restaurant10.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Bakso",
+    "description": "Restoran dengan hidangan bakso enak",
+    "price": 35000,
+    "imgUrl": "https://example.com/restaurant11.jpg",
+    "categoryId": 1,
+    "authorId": 4
+  },
+  {
+    "name": "Lasagna",
+    "description": "Restoran Italia dengan lasagna lezat",
+    "price": 85000,
+    "imgUrl": "https://example.com/restaurant12.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  },
+  {
+    "name": "Enchiladas",
+    "description": "Restoran dengan enchiladas pedas",
+    "price": 68000,
+    "imgUrl": "https://example.com/restaurant13.jpg",
+    "categoryId": 3,
+    "authorId": 5
+  },
+  {
+    "name": "Babi Guling",
+    "description": "Restoran Bali dengan babi guling lezat",
+    "price": 90000,
+    "imgUrl": "https://example.com/restaurant14.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Udon",
+    "description": "Restoran Jepang dengan udon segar",
+    "price": 65000,
+    "imgUrl": "https://example.com/restaurant15.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "name": "Nasi Padang",
+    "description": "Restoran dengan hidangan nasi padang khas Sumatera",
+    "price": 48000,
+    "imgUrl": "https://example.com/restaurant16.jpg",
+    "categoryId": 1,
+    "authorId": 4
+  },
+  {
+    "name": "Risotto",
+    "description": "Restoran Italia dengan risotto spesial",
+    "price": 75000,
+    "imgUrl": "https://example.com/restaurant17.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  },
+  {
+    "name": "Tostadas",
+    "description": "Restoran dengan tostadas renyah",
+    "price": 58000,
+    "imgUrl": "https://example.com/restaurant18.jpg",
+    "categoryId": 3,
+    "authorId": 5
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "description": "Restoran China dengan Kung Pao Chicken pedas",
+    "price": 72000,
+    "imgUrl": "https://example.com/restaurant19.jpg",
+    "categoryId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Tempura",
+    "description": "Restoran Jepang dengan tempura renyah",
+    "price": 85000,
+    "imgUrl": "https://example.com/restaurant20.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "username": "yusuf",
+    "email": "yusuf@gmail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "248-253-0826",
+    "address": "81 Arapahoe Road"
+  },
+  {
+    "username": "ferdi",
+    "email": "ferdi@gmail.com",
+    "password": "12345",
+    "role": "admin",
+    "phoneNumber": "248-253-0826",
+    "address": "81 Arapahoe Road"
+  },
+  {
+    "username": "frengki",
+    "email": "frengki@gmail.com",
+    "password": "12345",
+    "role": "user",
+    "phoneNumber": "248-253-0826",
+    "address": "81 Arapahoe Road"
+  },
+  {
+    "username": "test",
+    "email": "test@gmail.com",
+    "password": "12345",
+    "role": "user",
+    "phoneNumber": "248-253-0826",
+    "address": "81 Arapahoe Road"
+  },
+  {
+    "username": "fitri",
+    "email": "fitri@gmail.com",
+    "password": "12345",
+    "role": "user",
+    "phoneNumber": "248-253-0826",
+    "address": "81 Arapahoe Road"
+  }
+]
